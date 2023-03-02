@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.oojohn6oo.cestringredirection
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

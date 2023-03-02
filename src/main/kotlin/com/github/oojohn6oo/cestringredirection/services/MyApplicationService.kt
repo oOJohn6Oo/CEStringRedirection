@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.oojohn6oo.cestringredirection.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.oojohn6oo.cestringredirection.MyBundle
 
 class MyApplicationService {
 
